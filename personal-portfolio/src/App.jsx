@@ -85,11 +85,10 @@ function App() {
             <div className="header" id="header">
               <div className="content-inner">
                 <p>I'm</p>
-                <h1>Mark Jason</h1>
+                <h1>Mark Jason L. Patron</h1>
                 <h2 />
-                <div className="typed-text">
-                  Web Designer, Web Developer, Front End Developer, Apps Developer,
-                  Graphic Designer
+                <div className="">
+                  Your trustworthy System Quality Assurance
                 </div>
               </div>
             </div>

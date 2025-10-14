@@ -606,38 +606,38 @@ function App() {
                     <div className="contact-info">
                       <p>
                         <i className="fa fa-user" />
-                        Michael Miller
+                        Mark Jason L. Patron
                       </p>
                       <p>
                         <i className="fa fa-tag" />
-                        Web Designer &amp; Developer
+                        System Quality Assurance
                       </p>
                       <p>
                         <i className="fa fa-envelope" />
-                        <a href="mailto:info@example.com">info@example.com</a>
+                        <a href="mailto:info@example.com">bdcpas19@gmail.com</a>
                       </p>
                       <p>
                         <i className="fa fa-phone" />
-                        <a href="tel:+1234567890">+123-456-7890</a>
+                        <a href="tel:+639123456789">+63 909 326 9591</a>
                       </p>
                       <p>
                         <i className="fa fa-map-marker" />
-                        123 Street, Los Angeles, CA, USA
+                        MacArthur Highway Add Compound, Gate-1 Pampanga, Apalit, Sampaloc
                       </p>
                       <div className="social">
-                        <a className="btn" href="">
+                        <a className="btn" href="https://x.com/ItsukaShir78467?t=qA3qYZ57UIXRPhSXaani1Q&s=07" target="_blank">
                           <i className="fab fa-twitter" />
                         </a>
-                        <a className="btn" href="">
+                        <a className="btn" href="https://www.facebook.com/share/1EvhxhoanN/" target="_blank"> 
                           <i className="fab fa-facebook-f" />
                         </a>
-                        <a className="btn" href="">
-                          <i className="fab fa-linkedin-in" />
-                        </a>
-                        <a className="btn" href="">
+                        <a className="btn" href="https://www.instagram.com/markjasonpatron/?igsh=MWd0dXQ1Ym9mdHBsag%3D%3D#" target="_blank">
                           <i className="fab fa-instagram" />
                         </a>
-                        <a className="btn" href="">
+                        <a className="btn" href="https://discord.com/users/805905487904243754" target="_blank">
+                          <i className="fab fa-discord" />
+                        </a>
+                        <a className="btn" href="https://www.youtube.com/@itsukashiro5849" target="_blank">
                           <i className="fab fa-youtube" />
                         </a>
                       </div>

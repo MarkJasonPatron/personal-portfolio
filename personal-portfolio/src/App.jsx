@@ -11,7 +11,7 @@ function App() {
         <div className="wrapper">
           <div className="sidebar">
             <div className="sidebar-header">
-              <img src="img/profile.jpg" alt="Image" />
+              <img src="img/stolen.jpg" alt="Image" />
             </div>
             <div className="sidebar-content">
               <nav className="navbar navbar-expand-md bg-dark navbar-dark">
@@ -115,15 +115,19 @@ function App() {
                 </div>
                 <div className="row align-items-center">
                   <div className="col-md-6 col-lg-5">
-                    <img src="img/about.jpg" alt="Image" />
+                    <img src="img/grads.JPG" alt="Image" />
                   </div>
                   <div className="col-md-6 col-lg-7">
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu
-                      suscipit orci. Donec molestie velit id libero blandit, quis
-                      suscipit urna suscipit. Donec aliquet erat eu lacinia iaculis.
-                      Ut tempor tellus eu sem pharetra feugiat. Proin libero ligula,
-                      gravida at porttitor eget.
+                      Hi! I’m Mark Jason Patron, a <b>System Quality Assurance</b>.
+                      <br />
+                      I enjoy trying to find bugs and stuffs.
+                      <br />
+                      I love <b>CyberSecurity</b>, especially <b>Web Exploit</b> and continuously learning new things.
+                      <br />
+                      When I’m not working, you’ll usually find me reading a manga or watching youtube videos.
+                      <br />
+                      I’m currently a 3rd year <b>Bachelor of Science in Information Systems</b>, student in <b>La Verdad Christian College</b>.
                     </p>
                     <a className="btn" href="#">
                       Hire Me
@@ -134,8 +138,8 @@ function App() {
                   <div className="col-md-6">
                     <div className="skills">
                       <div className="skill-name">
-                        <p>Design</p>
-                        <p>85%</p>
+                        <p>Laravel</p>
+                        <p>20%</p>
                       </div>
                       <div className="progress">
                         <div
@@ -147,7 +151,7 @@ function App() {
                         />
                       </div>
                       <div className="skill-name">
-                        <p>SEO</p>
+                        <p>Web</p>
                         <p>95%</p>
                       </div>
                       <div className="progress">
@@ -205,48 +209,44 @@ function App() {
                   <div className="col-md-6">
                     <div className="edu-col">
                       <span>
-                        01-Jan-2020 <i>to</i> 31-Dec-2050
+                        Present Day - 2025
                       </span>
-                      <h3>Master Degree</h3>
+                      <h3>La Verdad Christian College</h3>
                       <p>
-                        Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie
-                        velit id libero.
+                        Currently studying Bachelor of Science in Information Systems.
                       </p>
                     </div>
                   </div>
                   <div className="col-md-6">
                     <div className="edu-col">
                       <span>
-                        01-Jan-2020 <i>to</i> 31-Dec-2050
+                        Graduated - 2024
                       </span>
-                      <h3>Bachelor Degree</h3>
+                      <h3>La Verdad Christian College</h3>
                       <p>
-                        Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie
-                        velit id libero.
+                        Graduated in Associate in Computer Technology.
                       </p>
                     </div>
                   </div>
                   <div className="col-md-6">
                     <div className="edu-col">
                       <span>
-                        01-Jan-2020 <i>to</i> 31-Dec-2050
+                        Graduated - 2022
                       </span>
-                      <h3>Associate Degree</h3>
+                      <h3>Kalibo Integrated Special Education Center</h3>
                       <p>
-                        Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie
-                        velit id libero.
+                        Graduated in TVL-ICT.
                       </p>
                     </div>
                   </div>
                   <div className="col-md-6">
                     <div className="edu-col">
                       <span>
-                        01-Jan-2020 <i>to</i> 31-Dec-2050
+                        Graduated - 2016
                       </span>
-                      <h3>High School</h3>
+                      <h3>Tinigao Elementary School</h3>
                       <p>
-                        Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie
-                        velit id libero.
+                        Graduated with Honors.
                       </p>
                     </div>
                   </div>

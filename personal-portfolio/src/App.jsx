@@ -96,7 +96,7 @@ function App() {
             {/* Large Button Start */}
             <div className="large-btn">
               <div className="content-inner">
-                <a className="btn" href="#" download>
+                <a className="btn" href="/public/Resume.pdf" download>
                   <i className="fa fa-download" />
                   Resume
                 </a>
@@ -614,7 +614,7 @@ function App() {
                       </p>
                       <p>
                         <i className="fa fa-envelope" />
-                        <a href="mailto:info@example.com">bdcpas19@gmail.com</a>
+                        <a href="mailto:bdcpas19@gmail.com">bdcpas19@gmail.com</a>
                       </p>
                       <p>
                         <i className="fa fa-phone" />

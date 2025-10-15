@@ -40,15 +40,15 @@ function App() {
                         <i className="fa fa-address-card" />
                       </a>
                     </li>
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                       <a className="nav-link" href="#experience">
                         Experience
                         <i className="fa fa-star" />
                       </a>
-                    </li>
+                    </li> */}
                     <li className="nav-item">
                       <a className="nav-link" href="#service">
-                        Service
+                        Skills
                         <i className="fa fa-tasks" />
                       </a>
                     </li>
@@ -69,14 +69,14 @@ function App() {
               </nav>
             </div>
             <div className="sidebar-footer">
-              <a href="#">
+              <a href="https://x.com/ItsukaShir78467?t=qA3qYZ57UIXRPhSXaani1Q&s=07" target="_blank">
                 <i className="fab fa-twitter" />
               </a>
-              <a href="#">
+              <a href="https://www.facebook.com/share/1EvhxhoanN/" target="_blank">
                 <i className="fab fa-facebook-f" />
               </a>
-              <a href="#">
-                <i className="fab fa-linkedin-in" />
+              <a href="https://www.instagram.com/markjasonpatron/?igsh=MWd0dXQ1Ym9mdHBsag%3D%3D#" target="_blank">
+                <i className="fab fa-instagram" />
               </a>
             </div>
           </div>
@@ -139,7 +139,7 @@ function App() {
                     <div className="skills">
                       <div className="skill-name">
                         <p>Laravel</p>
-                        <p>20%</p>
+                        <p>50%</p>
                       </div>
                       <div className="progress">
                         <div
@@ -151,8 +151,8 @@ function App() {
                         />
                       </div>
                       <div className="skill-name">
-                        <p>Web</p>
-                        <p>95%</p>
+                        <p>Figma</p>
+                        <p>20%</p>
                       </div>
                       <div className="progress">
                         <div
@@ -168,8 +168,8 @@ function App() {
                   <div className="col-md-6">
                     <div className="skills">
                       <div className="skill-name">
-                        <p>Development</p>
-                        <p>90%</p>
+                        <p>React</p>
+                        <p>15%</p>
                       </div>
                       <div className="progress">
                         <div
@@ -181,8 +181,8 @@ function App() {
                         />
                       </div>
                       <div className="skill-name">
-                        <p>Marketing</p>
-                        <p>85%</p>
+                        <p>Github</p>
+                        <p>35%</p>
                       </div>
                       <div className="progress">
                         <div
@@ -255,7 +255,7 @@ function App() {
             </div>
             {/* Education Start */}
             {/* Experience Start */}
-            <div className="experience" id="experience">
+            {/* <div className="experience" id="experience">
               <div className="content-inner">
                 <div className="content-header">
                   <h2>Experience</h2>
@@ -319,52 +319,52 @@ function App() {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
             {/* Experience Start */}
             {/* Service Start */}
             <div className="service" id="service">
               <div className="content-inner">
                 <div className="content-header">
-                  <h2>Service</h2>
+                  <h2>Skills</h2>
                 </div>
                 <div className="row align-items-center">
                   <div className="col-md-6">
                     <div className="srv-col">
                       <i className="fa fa-desktop" />
-                      <h3>Web Design</h3>
+                      <h3>Manual Testing</h3>
                       <p>
-                        Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie
-                        velit id libero.
+                        I’m learning how to perform manual testing by identifying software issues, 
+                        documenting results, and verifying fixes to ensure quality.
                       </p>
                     </div>
                   </div>
                   <div className="col-md-6">
                     <div className="srv-col">
                       <i className="fa fa-laptop" />
-                      <h3>Web Development</h3>
+                      <h3>Understanding of Software Testing Concepts</h3>
                       <p>
-                        Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie
-                        velit id libero.
+                        I’m familiar with the fundamentals of software testing, 
+                        including test case creation, bug reporting, and quality assurance principles.
                       </p>
                     </div>
                   </div>
                   <div className="col-md-6">
                     <div className="srv-col">
                       <i className="fa fa-search" />
-                      <h3>SEO</h3>
+                      <h3>Test Case Writing</h3>
                       <p>
-                        Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie
-                        velit id libero.
+                        I can write simple test cases and test scenarios based on system 
+                        requirements to check whether features work as expected.
                       </p>
                     </div>
                   </div>
                   <div className="col-md-6">
                     <div className="srv-col">
                       <i className="fa fa-envelope-open-text" />
-                      <h3>Digital Marketing</h3>
+                      <h3>Bug Reporting</h3>
                       <p>
-                        Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie
-                        velit id libero.
+                        I practice documenting and reporting bugs clearly using 
+                        structured formats or beginner-friendly tools like Excel.
                       </p>
                     </div>
                   </div>

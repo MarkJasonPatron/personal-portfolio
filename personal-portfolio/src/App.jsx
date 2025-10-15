@@ -96,13 +96,13 @@ function App() {
             {/* Large Button Start */}
             <div className="large-btn">
               <div className="content-inner">
-                <a className="btn" href="#">
+                <a className="btn" href="#" download>
                   <i className="fa fa-download" />
                   Resume
                 </a>
-                <a className="btn" href="#">
+                <a className="btn" href="https://mail.google.com/mail/?view=cm&fs=1&to=bdcpas19@gmail.com" target="_blank">
                   <i className="fa fa-hands-helping" />
-                  Hire Me
+                  Email Me
                 </a>
               </div>
             </div>
@@ -129,9 +129,9 @@ function App() {
                       <br />
                       I’m currently a 3rd year <b>Bachelor of Science in Information Systems</b>, student in <b>La Verdad Christian College</b>.
                     </p>
-                    <a className="btn" href="#">
-                      Hire Me
-                    </a>
+                    {/* <a className="btn" href="https://mail.google.com/mail/?view=cm&fs=1&to=bdcpas19@gmail.com" target="_blank">
+                       Email Me
+                    </a> */}
                   </div>
                 </div>
                 <div className="row">
@@ -378,7 +378,7 @@ function App() {
                 <div className="content-header">
                   <h2>Portfolio</h2>
                 </div>
-                <div className="row">
+                {/* <div className="row">
                   <div className="col-lg-12">
                     <ul id="portfolio-flters">
                       <li data-filter="*" className="filter-active">
@@ -389,26 +389,26 @@ function App() {
                       <li data-filter=".dig-mar">Marketing</li>
                     </ul>
                   </div>
-                </div>
+                </div> */}
                 <div className="row portfolio-container">
                   <div className="col-lg-4 col-md-6 portfolio-item web-des">
                     <div className="portfolio-wrap">
                       <figure>
-                        <img src="img/portfolio-1.jpg" className="img-fluid" alt="" />
+                        <img src="img/note.png" className="img-fluid" alt="note-app" />
                         <a
-                          href="img/portfolio-1.jpg"
+                          href="img/note.png"
                           data-lightbox="portfolio"
-                          data-title="Project Name"
+                          data-title="note-app"
                           className="link-preview"
                           title="Preview"
                         >
                           <i className="fa fa-eye" />
                         </a>
-                        <a href="#" className="link-details" title="More Details">
+                        <a href="https://github.com/MarkJasonPatron/note-app" target='_blank' className="link-details" title="More Details">
                           <i className="fa fa-link" />
                         </a>
                         <a className="portfolio-title" href="#">
-                          Project Name <span>Web Design</span>
+                          note-app <span>Web Development</span>
                         </a>
                       </figure>
                     </div>
@@ -426,11 +426,11 @@ function App() {
                         >
                           <i className="fa fa-eye" />
                         </a>
-                        <a href="#" className="link-details" title="More Details">
+                        <a href="https://github.com/rshdgvn/pep-7" target='_blank' className="link-details" title="More Details">
                           <i className="fa fa-link" />
                         </a>
                         <a className="portfolio-title" href="#">
-                          Project Name <span>Web Design</span>
+                          pep-7 <span>Web Development</span>
                         </a>
                       </figure>
                     </div>
@@ -438,26 +438,26 @@ function App() {
                   <div className="col-lg-4 col-md-6 portfolio-item web-dev">
                     <div className="portfolio-wrap">
                       <figure>
-                        <img src="img/portfolio-3.jpg" className="img-fluid" alt="" />
+                        <img src="img/lv-cis.png" className="img-fluid" alt="" />
                         <a
-                          href="img/portfolio-3.jpg"
+                          href="img/lv-cis.png"
                           className="link-preview"
                           data-lightbox="portfolio"
-                          data-title="Project Name"
+                          data-title="LV-CIS"
                           title="Preview"
                         >
                           <i className="fa fa-eye" />
                         </a>
-                        <a href="#" className="link-details" title="More Details">
+                        <a href="https://www.figma.com/design/bWP6URBxaNLhnD4t2XJhNB/Figma?node-id=0-1&p=f&t=zKxnInxsT3dbji6O-0" target='_blank' className="link-details" title="More Details">
                           <i className="fa fa-link" />
                         </a>
                         <a className="portfolio-title" href="#">
-                          Project Name <span>Web Development</span>
+                          LV-CIS <span>Web Design</span>
                         </a>
                       </figure>
                     </div>
-                  </div>
-                  <div className="col-lg-4 col-md-6 portfolio-item web-dev">
+                  {/* </div> */}
+                  {/* <div className="col-lg-4 col-md-6 portfolio-item web-dev">
                     <div className="portfolio-wrap">
                       <figure>
                         <img src="img/portfolio-4.jpg" className="img-fluid" alt="" />
@@ -501,8 +501,8 @@ function App() {
                       </figure>
                     </div>
                   </div>
-                  <div className="col-lg-4 col-md-6 portfolio-item dig-mar">
-                    <div className="portfolio-wrap">
+                  <div className="col-lg-4 col-md-6 portfolio-item dig-mar"> */}
+                    {/* <div className="portfolio-wrap">
                       <figure>
                         <img src="img/portfolio-6.jpg" className="img-fluid" alt="" />
                         <a
@@ -521,14 +521,14 @@ function App() {
                           Project Name <span>Digital Marketing</span>
                         </a>
                       </figure>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>
             </div>
             {/* Portfolio Start */}
             {/* Review Start */}
-            <div className="review" id="review">
+            {/* <div className="review" id="review">
               <div className="content-inner">
                 <div className="content-header">
                   <h2>Review</h2>
@@ -593,7 +593,7 @@ function App() {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
             {/* Review End */}
             {/* Contact Start */}
             <div className="contact" id="contact">

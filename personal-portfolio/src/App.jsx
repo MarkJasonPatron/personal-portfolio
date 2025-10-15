@@ -54,7 +54,7 @@ function App() {
                     </li>
                     <li className="nav-item">
                       <a className="nav-link" href="#portfolio">
-                        Portfolio
+                        Projects
                         <i className="fa fa-file-archive" />
                       </a>
                     </li>
@@ -96,7 +96,7 @@ function App() {
             {/* Large Button Start */}
             <div className="large-btn">
               <div className="content-inner">
-                <a className="btn" href="/public/Resume.pdf" download>
+                <a className="btn" href="resume.pdf" download>
                   <i className="fa fa-download" />
                   Resume
                 </a>
@@ -376,7 +376,7 @@ function App() {
             <div className="portfolio" id="portfolio">
               <div className="content-inner">
                 <div className="content-header">
-                  <h2>Portfolio</h2>
+                  <h2>Projects</h2>
                 </div>
                 {/* <div className="row">
                   <div className="col-lg-12">

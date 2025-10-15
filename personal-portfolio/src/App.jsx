@@ -416,9 +416,9 @@ function App() {
                   <div className="col-lg-4 col-md-6 portfolio-item web-des">
                     <div className="portfolio-wrap">
                       <figure>
-                        <img src="img/portfolio-2.jpg" className="img-fluid" alt="" />
+                        <img src="img/pep-7.png" className="img-fluid" alt="" />
                         <a
-                          href="img/portfolio-2.jpg"
+                          href="img/pep-7.png"
                           className="link-preview"
                           data-lightbox="portfolio"
                           data-title="Project Name"
